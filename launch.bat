@@ -1,2 +1,2 @@
-cd Desktop\HiOA\Thesis\code\reference
+cd Desktop\HiOA\Thesis\eyetracker
 jupyter notebook
